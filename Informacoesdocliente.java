@@ -20,10 +20,5 @@ public class Informacoesdocliente {
         String novoformatodovalor = formato.format(valor);
         System.out.println(novoformatodovalor);
         scanner.close();
-    
-    
-    }
-  
-    
-
-}
+        }
+   }
