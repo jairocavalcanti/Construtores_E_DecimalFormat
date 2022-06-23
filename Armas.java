@@ -7,13 +7,5 @@ public class Armas {
     public Armas(String nome, String calibre) {
         this.Nome = nome;
         this.calibre = calibre;
-    }
-
-
-   
-   
-    
- 
-    
-    
+        }
 }
