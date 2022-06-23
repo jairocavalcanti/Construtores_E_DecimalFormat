@@ -13,9 +13,5 @@ public class Principal {
 
     Armas gun = new Armas("Colt1911","Nove milimetros");    
     System.out.println("Nome da arma:--" + gun.Nome + "--Calibre da arma:--" + gun.calibre );
-           
-
-
-}
-    
-}
+    }
+ }
